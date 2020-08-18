@@ -2,11 +2,12 @@
 
 ## Description
 
-This is a Command Line Interface Tic-Tac-Toe Game. This application was built using Python.
+This is a Command Line Interface Tic-Tac-Toe Game. 
 
 ## Table of Contents
 
 * [Description](#description)
+* [Technology](#technology)
 * [User Story](#user-story)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -16,18 +17,20 @@ This is a Command Line Interface Tic-Tac-Toe Game. This application was built us
 * [Questions](#questions)
 * [Deployed Application URL](#deployed-application-URL)
 
+## Technology
 
+- Python
 
 ## User Story
 
 
-As a user, I would like a tic tac toe game I can play with another user.
+As a user, I would like a tic tac toe game so that I can play with another user.
 
 
 ## Installation
 
 
-Do a git fork and clone. In the command line, go to the project directory and type on python and then name of the file.
+Do a git fork and clone. In the command line, go to the project directory and type in python and then name of the file.
 
 
 ## Usage
